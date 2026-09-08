@@ -1,0 +1,7 @@
+{
+  "options.yume-interpolation-fix.entityInterpolation": "エンティティ移動の補間方式",
+  "options.yume-interpolation-fix.vanilla": "26.3 (デフォルト)",
+  "options.yume-interpolation-fix.classic": "26.2",
+  "options.yume-interpolation-fix.entityInterpolation.tooltip": "エンティティの移動・ノックバック時の移動補間の方法を選択します。\n26.3: サーバーから受け取った移動経路から補間します\n26.2: 最新のエンティティ位置へ線形補間します",
+  "options.yume-interpolation-fix.saveFailure": "設定の保存に失敗しました"
+}

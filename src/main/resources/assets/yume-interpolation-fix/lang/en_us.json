@@ -1,0 +1,7 @@
+{
+  "options.yume-interpolation-fix.entityInterpolation": "Entity Interpolation",
+  "options.yume-interpolation-fix.vanilla": "26.3 (Default)",
+  "options.yume-interpolation-fix.classic": "26.2",
+  "options.yume-interpolation-fix.entityInterpolation.tooltip": "Controls movement interpolation, including knockback.\n26.3: Interpolates along the movement path from the server.\n26.2: Linearly interpolates to the latest position.",
+  "options.yume-interpolation-fix.saveFailure": "Failed to save interpolation settings"
+}

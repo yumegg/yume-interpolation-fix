@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "gg.yume.interpolationfix.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "AccessibilityOptionsScreenMixin",
+    "LivingEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
